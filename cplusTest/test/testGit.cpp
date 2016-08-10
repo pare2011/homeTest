@@ -2,8 +2,6 @@
 
 using namespace std;
 
-
-
 int main(int argc, char* argv[])
 {
 	char* nameBuf = new char(255);
