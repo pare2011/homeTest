@@ -10,5 +10,4 @@ int main(int argc, char* argv[])
 	cout<<"hello :"<<nameBuf<<endl;
 
 	return 0;
-
 }
