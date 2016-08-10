@@ -8,6 +8,7 @@ int main(int argc, char* argv[])
 	cout<<"please input you name:"<<endl;
 	cin>>nameBuf;
 	cout<<"hello :"<<nameBuf<<endl;
+	cout<<"hello world"<<endl;
 
 	return 0;
 }
