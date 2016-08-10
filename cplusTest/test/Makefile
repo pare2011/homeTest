@@ -1,9 +1,10 @@
-OBJ := testGit 
+OBJ := go
+SRC := testGit
 
 %.o:%.cpp
 	g++ -o $@ -c $<
 
-$(OBJ):*.o
+$(OBJ):$(SRC).o
 	g++ -o $@ $^
 
 clean:
