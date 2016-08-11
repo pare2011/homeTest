@@ -1,0 +1,6 @@
+BeiJing 34
+Tianjing 30
+Shijianzhuang 20
+Harbin 18
+Shanghai 30
+Guangzhou 33
